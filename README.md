@@ -1,3 +1,5 @@
+![Test](https://github.com/Peco602/ssh-linux-docker/actions/workflows/test.yml/badge.svg)
+
 # SSH Server Linux Docker image
 
 Run a SSH Server in a Linux container.
