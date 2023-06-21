@@ -1,4 +1,5 @@
 ![Test](https://github.com/Peco602/ssh-linux-docker/actions/workflows/test.yml/badge.svg)
+![Push](https://github.com/Peco602/ssh-linux-docker/actions/workflows/push.yml/badge.svg)
 
 # SSH Server Linux Docker image
 
